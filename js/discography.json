@@ -1,0 +1,679 @@
+[
+   {
+      "id" : 8,
+      "type" : "single",
+      "title" : "Blind Youth",
+      "url" : "blind-youth",
+      "image" : "cdzero4.jpg",
+      "color" : "8a004b",
+      "date" : "2002-10-21",
+      "player_site" : "SC",
+      "player_id" : "6142495",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Blind Youth",
+            "time" : "4:00"
+         },
+         {
+            "track" : 2,
+            "title" : "Heretic",
+            "time" : "2:59"
+         },
+         {
+            "track" : 3,
+            "title" : "Road to Damascus",
+            "time" : "5:35"
+         }
+      ]
+   },
+   {
+      "id" : 1,
+      "type" : "album",
+      "title" : "Dusk",
+      "url" : "dusk",
+      "image" : "cdnova8.jpg",
+      "color" : "000000",
+      "date" : "2006-12-26",
+      "player_site" : "BC",
+      "player_id" : "2155778409",
+      "booklet" : "DLNOVA8.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Not Even Close",
+            "time" : "4:10"
+         },
+         {
+            "track" : 2,
+            "title" : "I Have Never",
+            "time" : "5:18"
+         },
+         {
+            "track" : 3,
+            "title" : "Beneath the Silent Skies",
+            "time" : "3:43"
+         },
+         {
+            "track" : 4,
+            "title" : "Calmwaters",
+            "time" : "4:31"
+         },
+         {
+            "track" : 5,
+            "title" : "In the Moonlight",
+            "time" : "4:13"
+         },
+         {
+            "track" : 6,
+            "title" : "Consequences",
+            "time" : "3:48"
+         },
+         {
+            "track" : 7,
+            "title" : "Signs of Life",
+            "time" : "4:55"
+         },
+         {
+            "track" : 8,
+            "title" : "Hidden Context",
+            "time" : "4:08"
+         },
+         {
+            "track" : 9,
+            "title" : "Perfect Geometry",
+            "time" : "4:46"
+         },
+         {
+            "track" : 10,
+            "title" : "Bulletproof",
+            "time" : "4:46"
+         },
+         {
+            "track" : 11,
+            "title" : "The End",
+            "time" : "4:53"
+         },
+         {
+            "track" : 12,
+            "title" : "Red Shadows",
+            "time" : "4:15"
+         }
+      ]
+   },
+   {
+      "id" : 7,
+      "type" : "compilation",
+      "title" : "Various Artists - Electraparade",
+      "url" : "electraparade",
+      "image" : "electraparade.png",
+      "color" : "f6bc4f",
+      "date" : "2007-09-25",
+      "player_url" : "http://www.junodownload.com/products/electraparade/1282893-02/",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Martin Degville - Planet Bi",
+            "time" : "5:00"
+         },
+         {
+            "track" : 2,
+            "title" : "Electraset - Just Another Number",
+            "time" : "4:31"
+         },
+         {
+            "track" : 3,
+            "title" : "Alien 6 - Close to Perfection",
+            "time" : "3:25"
+         },
+         {
+            "track" : 4,
+            "title" : "Starbase 109 - Engineering Workshop",
+            "time" : "2:28"
+         },
+         {
+            "track" : 5,
+            "title" : "Electroflex - Appreciate Me",
+            "time" : "3:57"
+         },
+         {
+            "track" : 6,
+            "title" : "Hypernova - My Light",
+            "time" : "3:56"
+         },
+         {
+            "track" : 7,
+            "title" : "One Moment - Cold Stare",
+            "time" : "3:24"
+         },
+         {
+            "track" : 8,
+            "title" : "Neuvogue - Random Number Generator",
+            "time" : "2:58"
+         },
+         {
+            "track" : 9,
+            "title" : "Synthface - With Your Love",
+            "time" : "2:22"
+         },
+         {
+            "track" : 10,
+            "title" : "Payola Disco - Skinny Girl",
+            "time" : "2:43"
+         },
+         {
+            "track" : 11,
+            "title" : "The Silent Age - Contrition",
+            "time" : "3:51"
+         },
+         {
+            "track" : 12,
+            "title" : "Silver Factory Allstars - Still Love",
+            "time" : "5:14"
+         }
+      ]
+   },
+   {
+      "id" : 44,
+      "type" : "single",
+      "title" : "Röyksopp - Tricky Tricky",
+      "url" : "tricky-tricky",
+      "image" : "blank.gif",
+      "color" : "de0029",
+      "date" : "2009-10-04",
+      "player_site" : "SC",
+      "player_id" : "695356",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Röyksopp - Tricky Tricky",
+            "version" : "Hypernova Static Turkey Remix",
+            "time" : "5:10"
+         }
+      ]
+   },
+   {
+      "id" : 53,
+      "type" : "album",
+      "title" : "Transmission",
+      "url" : "transmission",
+      "image" : "dlnova9.gif",
+      "color" : "6285e7",
+      "date" : "2011-08-15",
+      "player_site" : "BC",
+      "player_id" : "3626964860",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Almost",
+            "time" : "3:40"
+         },
+         {
+            "track" : 2,
+            "title" : "Golden Wheel",
+            "time" : "4:41"
+         },
+         {
+            "track" : 3,
+            "title" : "Eyeballing",
+            "time" : "3:22"
+         },
+         {
+            "track" : 4,
+            "title" : "Walk with Me",
+            "time" : "3:32"
+         },
+         {
+            "track" : 5,
+            "title" : "Better Days",
+            "time" : "4:24"
+         },
+         {
+            "track" : 6,
+            "title" : "False Dawn",
+            "time" : "3:40"
+         },
+         {
+            "track" : 7,
+            "title" : "Untouchable",
+            "time" : "4:27"
+         },
+         {
+            "track" : 8,
+            "title" : "Blood, Sweat and Tears",
+            "time" : "3:41"
+         },
+         {
+            "track" : 9,
+            "title" : "Distant Moon",
+            "time" : "4:11"
+         },
+         {
+            "track" : 10,
+            "title" : "Here Comes the Summertime",
+            "time" : "4:39"
+         },
+         {
+            "track" : 11,
+            "title" : "I'll Give You Electro",
+            "time" : "3:56"
+         },
+         {
+            "track" : 12,
+            "title" : "Without Life",
+            "time" : "5:10"
+         }
+      ]
+   },
+   {
+      "id" : 50,
+      "parent" : 53,
+      "type" : "single",
+      "title" : "I'll Give You Electro II",
+      "url" : "ill-give-you-electro-ii",
+      "image" : "dlnine4.gif",
+      "color" : "fdb81a",
+      "date" : "2012-02-06",
+      "player_site" : "BC",
+      "player_id" : "4067261005",
+      "booklet" : "DLNINE4.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "I'll Give You Electro",
+            "version" : "Imperfect Attitude Mix",
+            "time" : "3:56"
+         },
+         {
+            "track" : 2,
+            "title" : "These Four Walls",
+            "time" : "4:28"
+         },
+         {
+            "track" : 3,
+            "title" : "Black Earth",
+            "time" : "4:03"
+         }
+      ]
+   },
+   {
+      "id" : 55,
+      "parent" : 53,
+      "type" : "EP",
+      "title" : "Remission",
+      "url" : "remission",
+      "image" : "dlnine3.gif",
+      "color" : "57a392",
+      "date" : "2011-12-19",
+      "player_site" : "BC",
+      "player_id" : "840601132",
+      "booklet" : "DLNINE3.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Eyeballing",
+            "version" : "Sappy's Treble Up Remix",
+            "time" : "3:51"
+         },
+         {
+            "track" : 2,
+            "title" : "Sleepwalker",
+            "time" : "3:56"
+         },
+         {
+            "track" : 3,
+            "title" : "I'll Give You Electro",
+            "version" : "Imperfect Attitude Mix",
+            "time" : "3:56"
+         },
+         {
+            "track" : 4,
+            "title" : "False Dawn",
+            "version" : "Animalogue Remix",
+            "time" : "5:32"
+         },
+         {
+            "track" : 5,
+            "title" : "I'll Give You Electro",
+            "version" : "Sappy's Elektrik Remix",
+            "time" : "5:38",
+            "bonus" : true
+         }
+      ]
+   },
+   {
+      "id" : 52,
+      "parent" : 53,
+      "type" : "single",
+      "title" : "Better Days",
+      "url" : "better-days",
+      "image" : "dlnine1.png",
+      "color" : "b5b883",
+      "date" : "2011-04-20",
+      "player_site" : "BC",
+      "player_id" : "2342898061",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Better Days",
+            "version" : "Single Version",
+            "time" : "3:51"
+         },
+         {
+            "track" : 2,
+            "title" : "The Broken Generation",
+            "time" : "3:33"
+         },
+         {
+            "track" : 3,
+            "title" : "Shattered Mirrors",
+            "time" : "3:41"
+         }
+      ]
+   },
+   {
+      "id" : 54,
+      "parent" : 53,
+      "type" : "single",
+      "title" : "I'll Give You Electro",
+      "url" : "ill-give-you-electro",
+      "image" : "dlnine2.gif",
+      "color" : "d2ad62",
+      "date" : "2011-10-31",
+      "player_site" : "BC",
+      "player_id" : "3657285274",
+      "booklet" : "DLNINE2.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "I'll Give You Electro",
+            "version" : "Single Version",
+            "time" : "3:56"
+         },
+         {
+            "track" : 2,
+            "title" : "Dissolution",
+            "time" : "3:48"
+         },
+         {
+            "track" : 3,
+            "title" : "Weather the Storm",
+            "time" : "3:42"
+         },
+         {
+            "track" : 4,
+            "title" : "The Journey Here",
+            "time" : "3:54"
+         }
+      ]
+   },
+   {
+      "id" : 58,
+      "parent" : 1,
+      "type" : "compilation",
+      "title" : "Dusk Archive",
+      "url" : "dusk-archive",
+      "image" : "DLNOVX8.gif",
+      "color" : "000000",
+      "date" : "2013-07-08",
+      "player_site" : "BC",
+      "player_id" : "2610180831",
+      "booklet" : "DLNOVX8.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "My Light",
+            "time" : "3:56"
+         },
+         {
+            "track" : 2,
+            "title" : "Echoes of Perfection",
+            "time" : "4:16"
+         },
+         {
+            "track" : 3,
+            "title" : "Moving On",
+            "time" : "3:48"
+         },
+         {
+            "track" : 4,
+            "title" : "Consequences",
+            "version" : "Electrobongo Remix",
+            "time" : "4:37"
+         },
+         {
+            "track" : 5,
+            "title" : "Point of No Return",
+            "time" : "4:53"
+         },
+         {
+            "track" : 6,
+            "title" : "Running with the Wind",
+            "time" : "4:10"
+         },
+         {
+            "track" : 7,
+            "title" : "Beneath the Silent Skies",
+            "version" : "Part 2",
+            "time" : "2:02"
+         },
+         {
+            "track" : 8,
+            "title" : "The Healing",
+            "time" : "3:08"
+         },
+         {
+            "track" : 9,
+            "title" : "Bulletproof",
+            "version" : "Western Mix",
+            "time" : "4:33"
+         },
+         {
+            "track" : 10,
+            "title" : "Fallen",
+            "time" : "4:03"
+         },
+         {
+            "track" : 11,
+            "title" : "Lose Control",
+            "time" : "4:17"
+         },
+         {
+            "track" : 12,
+            "title" : "House of Cards",
+            "time" : "4:07"
+         },
+         {
+            "track" : 13,
+            "title" : "Bulletproof",
+            "version" : "Kevlar Mix",
+            "time" : "5:17"
+         },
+         {
+            "track" : 14,
+            "title" : "Heaven Only Knows",
+            "time" : "4:01"
+         },
+         {
+            "track" : 15,
+            "title" : "Never Wanted This",
+            "time" : "4:03"
+         },
+         {
+            "track" : 16,
+            "title" : "What I Would Do",
+            "time" : "3:48"
+         },
+         {
+            "track" : 17,
+            "title" : "Someone Else's Dream",
+            "time" : "3:59"
+         },
+         {
+            "track" : 18,
+            "title" : "Broken",
+            "time" : "3:59"
+         },
+         {
+            "track" : 19,
+            "title" : "The End",
+            "version" : "Ostkreuz Mix",
+            "time" : "4:53"
+         },
+         {
+            "track" : 20,
+            "title" : "Faint Footsteps",
+            "time" : "3:37"
+         },
+         {
+            "track" : 21,
+            "title" : "King for a Day",
+            "time" : "3:22"
+         },
+         {
+            "track" : 22,
+            "title" : "Echoes of Perfection",
+            "version" : "Demo",
+            "time" : "4:18",
+            "bonus" : true
+         },
+         {
+            "track" : 23,
+            "title" : "Moving On",
+            "version" : "Demo",
+            "time" : "3:45",
+            "bonus" : true
+         },
+         {
+            "track" : 24,
+            "title" : "Never Wanted This",
+            "version" : "Demo",
+            "time" : "3:56",
+            "bonus" : true
+         }
+      ]
+   },
+   {
+      "id" : 56,
+      "parent" : 53,
+      "type" : "single",
+      "title" : "Here Comes the Summertime",
+      "url" : "here-comes-the-summertime",
+      "image" : "dlnine5.gif",
+      "color" : "b0e670",
+      "date" : "2012-06-29",
+      "player_site" : "BC",
+      "player_id" : "2261292073",
+      "booklet" : "DLNINE5.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Here Comes the Summertime",
+            "version" : "Single Version",
+            "time" : "3:53"
+         },
+         {
+            "track" : 2,
+            "title" : "Homeward Bound",
+            "time" : "4:11"
+         },
+         {
+            "track" : 3,
+            "title" : "Words Come Easy",
+            "time" : "3:47",
+            "bonus" : true
+         },
+         {
+            "track" : 4,
+            "title" : "Here Comes the Summertime",
+            "version" : "Extended Version",
+            "time" : "5:57",
+            "bonus" : true
+         }
+      ]
+   },
+   {
+      "id" : 57,
+      "parent" : 53,
+      "type" : "single",
+      "title" : "Blood, Sweat and Tears",
+      "url" : "blood-sweat-and-tears",
+      "image" : "dlnine6.png",
+      "color" : "d75252",
+      "date" : "2013-03-29",
+      "player_site" : "BC",
+      "player_id" : "4025426197",
+      "booklet" : "DLNINE6.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Blood, Sweat and Tears",
+            "version" : "Single Version",
+            "time" : "3:39"
+         },
+         {
+            "track" : 2,
+            "title" : "Centuries Later",
+            "time" : "4:45"
+         },
+         {
+            "track" : 3,
+            "title" : "Golden Wheel",
+            "version" : "Sappy's Spinning Mix",
+            "time" : "4:06",
+            "bonus" : true
+         },
+         {
+            "track" : 4,
+            "title" : "Better Days",
+            "version" : "Phased Approach",
+            "time" : "4:42",
+            "bonus" : true
+         }
+      ]
+   },
+   {
+      "id" : 59,
+      "parent" : 53,
+      "type" : "EP",
+      "title" : "Intermission",
+      "url" : "intermission",
+      "image" : "dlnine7.gif",
+      "color" : "694a7a",
+      "date" : "2013-10-29",
+      "player_site" : "BC",
+      "player_id" : "3214307002",
+      "booklet" : "DLNINE7.pdf",
+      "tracks" : [
+         {
+            "track" : 1,
+            "title" : "Almost",
+            "version" : "The Extra Mile",
+            "time" : "5:24"
+         },
+         {
+            "track" : 2,
+            "title" : "I'll Give You Electro",
+            "version" : "I'll Give You Retro",
+            "time" : "5:17"
+         },
+         {
+            "track" : 3,
+            "title" : "Splinters",
+            "time" : "3:44"
+         },
+         {
+            "track" : 4,
+            "title" : "Golden Wheel",
+            "version" : "Funnelweb Remix",
+            "time" : "5:27"
+         },
+         {
+            "track" : 5,
+            "title" : "Here Comes the Summertime",
+            "version" : "Sappy's Lost Paradise Remix",
+            "time" : "7:02"
+         }
+      ]
+   }
+]

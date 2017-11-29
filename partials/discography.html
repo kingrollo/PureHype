@@ -1,0 +1,154 @@
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-sm-8">
+			<h1><a href=".">Hypernova</a></h1>
+		</div>
+
+		<div class="linkbox col-sm-4">
+			<div class="links">
+				<a href="https://www.facebook.com/purehypernova">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+				<a href="https://twitter.com/purehypernova">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+				</a>
+				<a href="https://www.youtube.com/user/PureHypernova">
+					<i class="fa fa-youtube" aria-hidden="true"></i>
+				</a>
+				<a href="https://purehype.bandcamp.com/">
+					<i class="fa fa-bandcamp" aria-hidden="true"></i>
+				</a>
+				<a href="http://soundcloud.com/hypernova">
+					<i class="fa fa-soundcloud" aria-hidden="true"></i>
+				</a>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="row">
+
+		<div class="release col-xs-12 col-sm-5 col-md-4 col-lg-3">
+			<div ng-if="about">
+				<img style="sleeve" ng-src="images/rollo.png" alt="Hypernova performing" class="img-responsive" width="100%">
+			</div>
+			<div ng-if="release">
+				<img style="sleeve" ng-src="images/{{release.image}}" alt="{{release.title}} sleeve" class="img-responsive" width="100%">
+			</div>
+		</div>
+
+		<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+
+			<div ng-if="about">
+				<h2>
+					Welcome to the Hypernova website!
+				</h2>
+				<p>
+					Hypernova are a British electronic duo. You'll find information about all of our
+					current releases on this page by browsing around and clicking on the cover
+					pictures.
+				</p>
+				<p>
+					We're not trying to change the world. We aren't seeking fame or fortune.
+					We don't think we're very good...
+				</p>
+				<p>
+					But we enjoy trying to make our own music and do it entirely for our own entertainment.
+				</p>
+				<p>
+					Feedback is always welcome, whether you think we're any good or total rubbish.
+					But we do ask that you let us know where you think we could improve, for example,
+					"try the odd melody here and there," or "had you considered singing lessons?"
+				</p>
+			</div>
+
+			<div ng-if="release">
+				<div class="info">
+					<h2>
+						{{release.title}}
+					</h2>
+					<div class="date">
+						{{release.date}}
+					</div>
+					<div class="subtext">
+						<span class="type">
+							{{release.type}}
+						</span>
+						<span ng-if="release.parent">
+							from the {{release.parent.type}} <a href="{{release.parent.url}}">
+								{{release.parent.title}}
+							</a>
+						</span>
+					</div>
+					<div class="tracks">
+						<div class="track" ng-repeat="track in release.tracks">
+							<span class="tracknumber">
+								{{track.track}}
+							</span>
+							<span class="tracklisting">
+								<span class="tracktitle">
+									{{track.title}}
+								</span>
+								<span ng-if="track.version" class="trackversion">
+									({{track.version}})
+								</span>
+								<span class="tracktime">
+									{{track.time}}
+								</span>
+								<span ng-if="track.bonus" class="trackbonus">
+									[bonus track]
+								</span>
+							</span>
+						</div>
+					</div>
+					<div class="assets" ng-if="release.booklet">
+						<a href="assets/{{release.booklet}}" target="_self">
+							Click here to download booklet
+						</a>
+					</div>
+				</div>
+
+				<div class="player" ng-if="release.player_src">
+					<iframe style="border: 0; width: 100%; height: 120px;" src="{{release.player_src}}" seamless>
+						<a href="{{release.player_url}}">
+							Listen to {{release.title}}
+						</a>
+					</iframe>
+				</div>
+
+				<div class="player" ng-if="!release.player_src && release.player_url">
+					<a href="{{release.player_url}}">
+						Listen to {{release.title}}
+					</a>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class="row">
+
+		<div class="release col-xs-6 col-sm-4 col-md-3 col-lg-2" ng-repeat="other in releases | orderBy: ['-sort']">
+			<a href="{{other.url}}">
+				<img ng-src="images/{{other.image}}" class="img-responsive" width="100%">
+			</a>
+		</div>
+
+	</div>
+
+	<div class="row">
+
+		<div class="col-xs-12">
+			<div class="credit" ng-if="about || release">
+				Hosted by <a href="http://www.000webhost.com/">000webhost.com</a>.
+				&copy 1998-2017 Roland Martin / Simon Martin.
+				This website uses cookies.
+				<a href="mailto:pure {dot} hypernova {at} gmail {dot} com">Contact Us</a>.
+			</div>
+		</div>
+
+	</div>
+</div>
